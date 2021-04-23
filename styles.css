@@ -1,0 +1,38 @@
+body{background-color:#bfcba8;}
+hr{
+    width:20%;
+    border-style:none;
+    border-top-style: dotted;
+    border-color:grey;
+    border-width:5px;
+}
+h1{color: #2f5d62}
+h2{color: #2f5d62}
+textarea{background-color: #dbf6e9}
+input{background-color: #dbf6e9}
+/*class styling i.e specific styling of boxes*/
+.profskils{color:#7b113a}
+.hobbies{color:#7b113a}
+.languages{color:#7b113a}
+.education{color:#7b113a}
+
+ /* unvisited link */
+a:link {
+  text-decoration: none;
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
